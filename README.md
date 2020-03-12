@@ -1,4 +1,4 @@
-#Frontend Engineer CEO Challenge - CONNECT
+# Frontend Engineer CEO Challenge - CONNECT
 
 ## Your challenge should you choose to accept:
 
