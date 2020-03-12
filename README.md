@@ -4,7 +4,8 @@
 
 <table>
   <tr>
-    <td>The Global Members Travel Network -  A community of international travellers
+    <td>The Global Members Travel Network -  A community of international travellers <br>
+      
 The CEO of Movemeback has asked you to build a quick prototype of a service that enables members of a community to meet with each other all over the world - that he can demonstrate to investors and users at an important conference</td>
   </tr>
 </table>
